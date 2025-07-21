@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Yadav</h1>
 <h3 align="center">A passionate Data Analyst and aspiring Machine Learning Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinn854&label=Profile%20views&color=0e75b6&style=flat" alt="sachinn854" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinn854" alt="sachinn854" /></a> </p>
 
