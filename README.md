@@ -17,7 +17,7 @@
 <hr>
 <!-- Competitive Profiles Section -->
 <h3 align="left" style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"/> Languages and Tools:
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"/> Competitive Profiles
 </h3>
 
 <div align="left">
@@ -30,6 +30,9 @@
   <a href="https://leetcode.com/sachinyadav_10" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo" />
   </a>
+  <a href="https://www.naukri.com/code360/profile/iamsachin" target="_blank">
+  <img src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange" height="30"  alt="Coding Ninjas" />
+</a>
 </div>
 
 <br/>
