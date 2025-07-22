@@ -14,13 +14,13 @@
 - 💬 Ask me about **- Data Analysis using Python - EDA with Pandas/Seaborn**
 
 - 📫 How to reach me **syy63052@gmail.com**
+<hr>
+<!-- Competitive Profiles Section -->
+<h3 align="left" style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Competitive Profiles
+</h3>
 
-<h3 align="center">Connect with me</h3>
-
-<div align="center">
-  <a href="https://linkedin.com/in/sachinyadavcs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
+<div align="left">
   <a href="https://www.codechef.com/users/sachiny0212" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codechef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codechef logo" />
   </a>
@@ -32,22 +32,38 @@
   </a>
 </div>
 
+<br/>
+<hr>
+<!-- Contact with me Section -->
+<h3 align="left" style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Contact with me
+</h3>
+
+<div align="left">
+  <a href="https://linkedin.com/in/sachinyadavcs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+</div>
+
+
 </p>
+<hr>
+<h3 align="left" style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px;">
+  Languages and Tools:
+</h3>
 
-<h3 align="center">Languages and Tools:</h3>
+<div align="left">
+  <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 20px;">
 
-<div align="center">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
-
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
     </a>
 
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
     </a>
 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
     </a>
 
@@ -67,14 +83,17 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
     </a>
 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
     </a>
 
   </div>
+</div>
+
 
 </p>
-
+<br/>
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinn854&show_icons=true&locale=en&layout=compact" alt="sachinn854" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinn854&show_icons=true&locale=en" alt="sachinn854" /></p>
