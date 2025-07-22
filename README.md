@@ -17,7 +17,7 @@
 <hr>
 <!-- Competitive Profiles Section -->
 <h3 align="left" style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Competitive Profiles
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"/> Languages and Tools:
 </h3>
 
 <div align="left">
