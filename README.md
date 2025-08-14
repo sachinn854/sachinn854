@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinn854" alt="sachinn854" /></a> </p>
 
-- 🔭 I’m currently working on [Product Demand Forecasting](https://github.com/sachinn854/Product-Demand-Forecasting.git)
-
 - 🌱 I’m currently learning **- Machine Learning (Sklearn, TensorFlow) - Feature Engineering & Model Optimization - Deep Dive into Seaborn & Pandas for EDA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinn854](https://github.com/sachinn854)
