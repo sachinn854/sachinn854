@@ -1,105 +1,155 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sachin%20Yadav&fontSize=80&animation=fadeIn&fontAlignY=35&overlay=https://github.com/sachinn854/sachinn854/blob/main/header-ai.png?raw=true&overlaySize=40" alt="Sachin Yadav Banner" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Sachin Yadav</h1>
-<h3 align="center">A passionate Data Analyst and aspiring Machine Learning Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinn854&label=Profile%20views&color=0e75b6&style=flat" alt="sachinn854" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinn854" alt="sachinn854" /></a> </p>
-
-- 🌱 I’m currently learning **- Machine Learning (Sklearn, TensorFlow) - Feature Engineering & Model Optimization - Deep Dive into Seaborn & Pandas for EDA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sachinn854](https://github.com/sachinn854)
-
-- 💬 Ask me about **- Data Analysis using Python - EDA with Pandas/Seaborn**
-
-- 📫 How to reach me **syy63052@gmail.com**
-<hr>
-<!-- Competitive Profiles Section -->
-<h3 align="left" style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px;">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"/> Competitive Profiles
-</h3>
-
-<div align="left">
-  <a href="https://www.codechef.com/users/sachiny0212" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codechef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codechef logo" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+RAG;Building+Intelligent+Systems;Competitive+Programmer" alt="Typing SVG" />
   </a>
-  <a href="https://www.hackerrank.com/cs23b1042" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo" />
-  </a>
-  <a href="https://leetcode.com/sachinyadav_10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/iamsachin" target="_blank">
-  <img src="https://img.shields.io/badge/CodingNinjas-%232C3454.svg?logo=CodingNinjas&logoColor=orange" height="30"  alt="Coding Ninjas" />
-</a>
-</div>
+</h1>
 
-<br/>
-<hr>
-<!-- Contact with me Section -->
-<h3 align="left" style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Contact with me
-</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachinn854&label=Profile%20Views&color=0e75b6&style=flat-square" alt="sachinn854" />
+</p>
 
-<div align="left">
+<p align="center">
   <a href="https://linkedin.com/in/sachinyadavcs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-
+  <a href="mailto:sachinyadav841239@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-<hr>
-<h3 align="left" style="border-bottom: 2px solid #ccc; display: inline-block; padding-bottom: 4px;">
-  Languages and Tools:
-</h3>
+---
 
-<div align="left">
-  <div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 20px;">
+## 🚀 About Me
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-    </a>
+<table border="0">
+ <tr>
+  <td width="60%">
+   - 🎓 **Education:** B.Tech CSE @ **IIITDM Kancheepuram** (CGPA: 8.11)
+   - 🤖 **Specialization:** Core AI/ML Systems, Deep Learning, NLP.
+   - 🧠 **Focus Area:** Building scalable, real-world RAG (Retrieval-Augmented Generation) & Agentic AI solutions.
+   - 💻 **Experience:** End-to-end ML lifecycle from research to production deployment.
+   - 💬 **Talk to me about:** Neural Networks, Vector DBs, LLM Fine-Tuning, or Data Structures.
+  </td>
+  <td width="40%">
+   <img src="https://github-readme-stats.vercel.app/api?username=sachinn854&show_icons=true&theme=algolia&hide_border=true" alt="Github Stats" />
+  </td>
+ </tr>
+</table>
+---
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-    </a>
+## 🛠️ Technical Ecosystem
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-    </a>
-
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-    </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-    </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    </a>
-
-   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-    </a>
-
-   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
-    </a>
-
-  </div>
-</div>
-
-
-</p>
+<details open>
+<summary><b>Languages & Core</b></summary>
 <br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" height="28" />
+</p>
+</details>
+
+<details open>
+<summary><b>AI/ML & Frameworks</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="28" />
+</p>
+</details>
+
+<details open>
+<summary><b>Generative AI (RAG/LLMs)</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=chroma&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Ollama-ED1C24?style=flat-square&logo=ollama&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Agentic--AI-Specialization-blue?style=flat-square" height="28" />
+</p>
+</details>
+
+<details open>
+<summary><b>DevOps & Deployment</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="28" />
+</p>
+</details>
+---
+
+## 📂 Highlighted Projects
+
+<details open>
+<summary><b>Sarthi Flux: Agentic RAG System</b></summary>
+A sophisticated RAG-based AI agent designed for intelligent information retrieval and task execution.
+<br/>
+`Python` `LangChain` `PyTorch` `ChromaDB` `FastAPI`
+<p>
+  <a href="https://github.com/sachinn854">View Code 🔗</a>
+</p>
+</details>
+
+<details>
+<summary><b>Deep Learning Image Classifier</b></summary>
+End-to-end computer vision system deployed using Docker.
+<br/>
+`TensorFlow` `Docker` `AWS` `Python`
+<p>
+  <a href="https://github.com/sachinn854">View Code 🔗</a>
+</p>
+</details>
+---
+
+## 🏆 Competitive Programming & Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/sachinyadav_10" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" /></a>
+  <a href="https://www.codechef.com/users/sachiny0212" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" height="35" /></a>
+  <a href="https://www.hackerrank.com/cs23b1042" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" /></a>
+  <a href="https://www.naukri.com/code360/profile/iamsachin" target="_blank"><img src="https://img.shields.io/badge/-CodingNinjas-%232C3454?style=for-the-badge&logo=CodingNinjas&logoColor=orange" height="35" /></a>
+</p>
+---
+
+## 📊 Activity & Impact
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinn854&theme=algolia&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinn854&layout=compact&theme=algolia&hide_border=true" width="48%" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=sachinn854&theme=algolia&hide_border=true" width="48%" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinn854&theme=algolia" width="100%" alt="3D Contribution Graph" />
+</p>
+---
+
+## 🐍 Contribution Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sachinn854/sachinn854/main/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+<br />
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinn854&show_icons=true&locale=en&layout=compact" alt="sachinn854" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinn854&show_icons=true&locale=en" alt="sachinn854" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=sachinn854" alt="sachinn854" /></p>
-
-
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/sachinn854">Sachin Yadav</a>
+</p>
