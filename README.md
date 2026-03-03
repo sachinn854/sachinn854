@@ -102,11 +102,11 @@ Experienced across the full ML lifecycle — from architecture design and model 
     <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
   </a>
   <a href="https://www.codechef.com/users/sachiny0212" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-3⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/CodeChef-2⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35"/>
   </a>
 </p>
 
-- LeetCode Knight (Max Rating: 1858) — 370+ Problems Solved  
+- LeetCode Knight (Max Rating: 1858) — 400 Problems Solved  
 - Strong foundation in Data Structures & Algorithms  
 
 ---
@@ -114,16 +114,17 @@ Experienced across the full ML lifecycle — from architecture design and model 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinn854&theme=algolia&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinn854&theme=algolia&hide_border=true&area=true" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinn854&show_icons=true&theme=algolia&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinn854&layout=compact&theme=algolia&hide_border=true" width="48%" />
-</p>
+<br/>
+
+
+
+<br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sachinn854&theme=algolia&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=sachinn854&theme=algolia&hide_border=true" width="75%" />
 </p>
 
 ---
@@ -131,3 +132,5 @@ Experienced across the full ML lifecycle — from architecture design and model 
 <p align="center">
   <b>Building applied AI systems that move beyond experimentation into production.</b>
 </p>
+
+---
