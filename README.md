@@ -101,7 +101,7 @@ Experienced across the full ML lifecycle — from architecture design and model 
   <a href="https://leetcode.com/sachinyadav_10" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
   </a>
-  <a href="https://www.codechef.com/users/sachiny0212" target="_blank">
+  <a href="https://www.codechef.com/users/sachin0910" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-2⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35"/>
   </a>
 </p>
